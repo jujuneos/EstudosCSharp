@@ -1,0 +1,13 @@
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/bin/Debug/netcoreapp3.1/Exercício composição
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/bin/Debug/netcoreapp3.1/Exercício composição.deps.json
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/bin/Debug/netcoreapp3.1/Exercício composição.runtimeconfig.json
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/bin/Debug/netcoreapp3.1/Exercício composição.runtimeconfig.dev.json
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/bin/Debug/netcoreapp3.1/Exercício composição.dll
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/bin/Debug/netcoreapp3.1/Exercício composição.pdb
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.csprojAssemblyReference.cache
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.AssemblyInfoInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.AssemblyInfo.cs
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.csproj.CoreCompileInputs.cache
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.dll
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.pdb
+/home/jujuneos/Área de Trabalho/Studying/Exercício composição/obj/Debug/netcoreapp3.1/Exercício composição.genruntimeconfig.cache
